@@ -203,14 +203,6 @@ See the `LICENSE` file for full details.
 
 ---
 
-## 👨‍💻 Author
-
-**Abderrahim KOUBBI**
-
-* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-
----
-
 ## 🙏 Acknowledgments
 
 * Vince Liuice – WhiteSur GTK & Icons
