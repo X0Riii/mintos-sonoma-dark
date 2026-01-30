@@ -12,6 +12,27 @@
 Using this script on other distributions or desktop environments is **at your own risk**.
 
 ---
+## 📸 Screenshots
+
+### 🖥️ Desktop (MintOS Sonoma Dark)
+![Desktop Preview](screenshots/desktop.png)
+
+---
+
+### 🚀 Plank Dock (macOS Style)
+![Dock Preview](screenshots/dock.png)
+
+---
+
+### 📂 Application Menu
+![Menu Preview](screenshots/menu.png)
+
+---
+
+### ⚙️ System Settings & Theme Configuration
+![Settings Preview](screenshots/settings.png)
+
+---
 
 ## 📋 Overview
 
